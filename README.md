@@ -1,4 +1,4 @@
-# Vastra Viveka — Real-Time Detection & Compliance Analyzer
+# Smart Vision — Real-Time Detection & Compliance Analyzer
 
 A real-time computer-vision application that runs multiple custom-trained **YOLOv11** models to
 analyze dress-code and safety compliance from images and a live webcam feed.
@@ -21,7 +21,7 @@ analyze dress-code and safety compliance from images and a live webcam feed.
 
 - **Ultralytics YOLOv11** — custom-trained models (attire, mask, helmet)
 - **OpenCV**, **NumPy**, **Pillow**
-- **Streamlit** + `streamlit-option-menu`
+- **Streamlit**, `streamlit-option-menu`, `streamlit-webrtc` (live webcam streaming)
 
 ## Getting Started
 
